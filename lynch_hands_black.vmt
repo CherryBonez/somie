@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models\UIF\Scientists/lynch_hands_black"
+	"$bumpmap" "Models\UIF\Scientists/lynch_hands_normal"
+}
